@@ -1,2 +1,2 @@
 # git_intro
-Some info
+Some info!
